@@ -16,7 +16,7 @@ También te recomiendo tener dos íconos preparados para agregarlos a nuestro .e
 
 Ahora descargamos, instalamos y ejecutamos  [**Launch4j**][launch].
 
-![jar](imgGit/jarlaunch4j.png) 
+![launch](imgGit/launch4j.png) 
 
 ### **Configuramos:**  
 **En la pestaña _Basic_ :**
