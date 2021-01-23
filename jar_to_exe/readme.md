@@ -18,7 +18,7 @@ También es recomendado tener dos íconos preparados para agregarlos a nuestro .
 
 Ahora a descargar, instalar y ejecutar  [**Launch4j**][launch].
 
-![jar](imgGit/launch4j.png) 
+![launch](imgGit/launch4j.png) 
 
 ### **Configuración:**  
 **En la pestaña _Basic_ :**
